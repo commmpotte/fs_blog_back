@@ -1,6 +1,6 @@
 # Full-Stack Blog Application - Backend
 
-Welcome to the backend repository for the Full-Stack Blog Application. This repository contains the server-side code for handling user authentication, managing articles, and serving data to the frontend. My frontend part locate here: https://github.com/commmpotte/fs_blog_front
+Welcome to the backend repository for the Full-Stack Blog Application. This repository contains the server-side code for handling user authentication, managing articles, and serving data to the frontend. My frontend part is here: https://github.com/commmpotte/fs_blog_front
 
 ## Technologies Used
 
